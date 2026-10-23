@@ -8,4 +8,4 @@ A creative coding repository showcasing geometric patterns, flowers, and visual 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/python-turtle-art.git](https://github.com/YOUR-USERNAME/python-turtle-art.git)
+   git clone [https://github.com/YOUR-USERNAME/python-turtle-art.git](https://github.com/sakshi-chaudhary91/Python-Turtle-Art-Gallery.git)
