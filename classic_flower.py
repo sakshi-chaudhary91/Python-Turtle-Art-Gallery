@@ -1,0 +1,15 @@
+import turtle
+
+t = turtle.Turtle()
+s = turtle.Screen()
+s.bgcolor("black")
+t.speed(0)
+t.color("#FF3366")
+
+for i in range(120):
+    t.circle(190 - i, 90)
+    t.left(90)
+    t.circle(190 - i, 90)
+    t.left(30)
+
+turtle.done()
